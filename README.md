@@ -1,2 +1,3 @@
 # Simple-Calculator
-This website is designed by harsh .This website provides us , a simple Calculator. Calculator and other operation is done by using languages like HTML,CSS & JS.
+This is special type of calculator which perform Arithematic operation(+,-,×,÷) as well as logical opertion (AND(&&),OR(||).
+ This calculator provides us better experience and easily to use it.
